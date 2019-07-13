@@ -1,5 +1,0 @@
-
-这个文件 本来在 hexo/themes/landscape/README.md  下
-报错了  报错如下  所以我把 整个文件删了 放在这里
-
-Your site is having problems building: The tag fancybox on line 77 in themes/landscape/README.md is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error/.”
